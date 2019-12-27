@@ -4,3 +4,5 @@ python recognize.py --detector face_detection_model --embedding-model openface_n
 
 Follow these command!!!
 Mong thầy chiếu cố cho tụi em :)))))))))))))
+Mong thầy đừng diss tội tụi em :)))
+
