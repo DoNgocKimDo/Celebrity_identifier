@@ -3,3 +3,4 @@ python train_model.py --embeddings output/embeddings.pickle --recognizer output/
 python recognize.py --detector face_detection_model --embedding-model openface_nn4.small2.v1.t7 --recognizer output/recognizer.pickle --le output/le.pickle --image images/test1.jpg
 
 Follow these command!!!
+Mong thầy chiếu cố cho tụi em :)))))))))))))
